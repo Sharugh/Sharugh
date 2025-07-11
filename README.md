@@ -1,7 +1,14 @@
-# 💫 About Me:
-Hi, I'm Sharugh 👋<br>🔭 I’m currently working on:<br><br>Well Log Data Prediction using Machine Learning<br>Building insightful Power BI Dashboards for Oil & Gas Production and Carbon Emissions<br>👯 I’m looking to collaborate on:<br><br>Machine Learning projects related to Oil & Gas, CCUS, and Energy Analytics<br>Innovative Data Science applications in renewable energy and sustainability<br>🤝 I’m looking for help with:<br><br>Implementing advanced deep learning models for well log data analysis<br>Exploring cutting-edge solutions for predictive modeling in energy and resource management<br>🌱 I’m currently learning:<br><br>Time Series Forecasting with advanced techniques like Prophet and LSTM<br>Big Data Analytics tools like Apache Spark and Hadoop<br>💬 Ask me about:<br><br>Machine Learning in the Energy Industry<br>Building interactive data visualizations using Power BI<br>Petroleum Engineering and its data applications<br>⚡ Fun fact:<br>I’m a state-level basketball player who also started my own clothing brand while pursuing my engineering degree!
+🚀 About Me
 
+I’m an energy and data enthusiast with a background in Petroleum Engineering and advanced skills in data science, analytics, and automation. Currently working at S&P Global, I specialize in transforming complex energy market data into actionable insights through advanced Power BI dashboards, Python scripting, and machine learning.
 
+I’ve worked extensively with datasets related to upstream supply-demand, macroeconomic trends, trade flows, refinery operations, crude runs, shipping, and pricing models. I enjoy bridging domain knowledge with technical solutions — building custom tools like Streamlit apps for real-time data extraction and automation.
+
+I’m passionate about using data-driven solutions and AI to support decision-making in the global energy landscape — with a strong interest in sustainability, energy transition, and innovative modelling approaches.
+
+Here you’ll find my projects covering machine learning algorithms (ARIMA, SARIMA, LSTM, XGBoost, CatBoost, SVM), time series forecasting, automated pipelines, and interactive dashboards. Always learning, always building.
+
+📌 Let’s connect and collaborate to solve real-world energy challenges through data and technology.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sharugh-a-356005280/) 
 
